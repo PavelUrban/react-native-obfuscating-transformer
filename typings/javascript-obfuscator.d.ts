@@ -14,6 +14,7 @@ declare module "javascript-obfuscator" {
       log?: boolean
       renameGlobals?: boolean
       reservedNames?: string[]
+      reservedStrings?: string[]
       rotateStringArray?: true
       seed?: 0
       selfDefending?: boolean
