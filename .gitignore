@@ -54,6 +54,6 @@ jspm_packages/
 # dotenv environment variables file
 .env
 
-dist
+.idea
 package
 *.tar.gz
